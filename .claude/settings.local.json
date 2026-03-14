@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(python tools/setup_google_drive.py:*)",
+      "Bash(python tools/create_folders.py:*)",
+      "Bash(python tools/poll_drive_folder.py:*)",
+      "Bash(python:*)"
+    ]
+  }
+}

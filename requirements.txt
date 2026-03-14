@@ -1,0 +1,37 @@
+# Core dependencies for WAT framework
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Common API clients
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Data handling
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Google Drive Integration
+google-auth>=2.26.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.100.0
+
+# PDF Processing and OCR
+pymupdf4llm>=0.2.9
+pymupdf>=1.24.0
+pdfplumber>=0.10.0
+easyocr>=1.7.0
+pdf2image>=1.16.0
+
+# Word Document Generation
+python-docx>=1.2.0
+
+# Image Processing
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Web scraping (optional)
+# beautifulsoup4>=4.12.0
+# playwright>=1.40.0
+
+# Add other dependencies as needed
